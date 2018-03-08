@@ -70,4 +70,4 @@ jobs:
   - put: deploy-to-cf
     params: 
       manifest: pcfapp/manifest.yml
-      current_app_name: pcfdapp-student-5
+      current_app_name: pcfapp-student-5
