@@ -1,8 +1,8 @@
 ---
 applications:
-- name: pcfdpp-student5
+- name: pcfdpp-student-5
   memory: 1G
-  host: pcfapp-student5
+  host: pcfapp-student-5
   domain: apps.pcflab.jp
   instances: 1
   path: target/demo-1.0.0-BUILD-SNAPSHOT.jar
